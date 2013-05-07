@@ -6,4 +6,5 @@
  * Window - Preferences - PHPeclipse - PHP - Code Templates
  */
  phpinfo();
+ echo "ciaop"; 
 ?>
